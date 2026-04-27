@@ -3,7 +3,6 @@
 Eine eigenständige RESTful-Backend-Applikation zur Verwaltung, Bewertung und Empfehlung von  
 Medieninhalten (Filme, Serien und Spiele).
 
-Dieses Projekt wurde im Rahmen eines Hochschulprojekts an der **FH Technikum Wien** umgesetzt.
 
 ---
 
