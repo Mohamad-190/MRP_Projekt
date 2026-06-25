@@ -89,7 +89,7 @@ Accept: application/json
 
 ---
 
-## 🐘 Datenbank & Docker
+## Datenbank & Docker
 
 - Persistente Speicherung der Daten in **PostgreSQL**
 - Vollständig containerisierte Umgebung mit **Docker Compose**
