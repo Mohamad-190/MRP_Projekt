@@ -6,7 +6,7 @@ Medieninhalten (Filme, Serien und Spiele).
 
 ---
 
-## 🚀 Projektübersicht
+## Projektübersicht
 
 Die **Media Ratings Platform (MRP)** ist ein HTTP/REST-basierter Server, der eine API für mögliche  
 Frontends (z. B. Web, Mobile, Konsole) bereitstellt.  
@@ -22,7 +22,7 @@ Schwerpunkte des Projekts sind:
 
 ---
 
-## 🛠️ Technologie-Stack
+## Technologie-Stack
 
 - **Programmiersprache:** C#  
 - **HTTP-Server:** Eigener HTTP-Service (kein ASP.NET)  
@@ -36,7 +36,7 @@ Schwerpunkte des Projekts sind:
 
 ---
 
-## ✨ Funktionalitäten
+## Funktionalitäten
 
 ### Benutzerverwaltung
 - Registrierung und Login mit eindeutigen Zugangsdaten
@@ -66,7 +66,7 @@ Schwerpunkte des Projekts sind:
 
 ---
 
-## 🔐 Authentifizierung
+## Authentifizierung
 
 Alle Endpunkte (außer Registrierung und Login) sind durch eine token-basierte Authentifizierung geschützt.
 
@@ -102,7 +102,7 @@ Accept: application/json
 ```bash
 docker-compose up -d
 ```
-## 🧪 Tests
+## Tests
 
 Mindestens 20 Unit-Tests
 
@@ -116,7 +116,7 @@ Fokus auf:
 
 - Autorisierungslogik
 
-## 📦 API-Tests
+## API-Tests
 
 Bereitgestellte Postman Collection bzw. curl-Skripte
 
